@@ -1,0 +1,35 @@
+task 5.1..what is SEO and explain the importance of SEO?
+>S.E.O:-->SEO stands for “search engine optimization.” In simple terms, 
+SEO means the process of improving your website to increase its visibility
+ on Google.
+ -- SEO is nothing but a software which rank our web site , when some one
+  search on search engine.
+  by using proper standard of accessibility abd semantics we can also
+  rank our web sites on the top.
+ -- SEO  has crawler which collects the information from our web page and
+  rank it.
+  importance of SEO:-->
+  1. SEO is important for placed our websites to the top so that it can be reached 
+  to  user on wider level.
+
+  
+
+  task 5.3..what are the benefits of using the meta tag?
+  >meta tags:--> meta data is nothing but a data about data. using meta tag
+  we provide the information to the  browser about the content written in the 
+  webpage.
+  there are several benefits of using meta tag which are listed below.
+  1.Meta tags provides relevancy:-->
+    Meta tags show search engines how relevant your page is to the user’s query.
+  2. They optimise your site without making things untidy.
+  3.They can be quickly implemented.
+  4.we save time without writing too much.
+
+  task 5.5..define favicon and give an illustrative example?
+  >favicon--> A favicon is a small image displayed next to the page title in the browser 
+  tab.
+  when we open the website a small icon we found to the next of title
+  like when we create any file to HTML (.html) we also se the angular 
+  icon of html next (left hand side ) to our html file. it is also a 
+  favicon.
+  --- A common name for a favicon image is favicon.ico.
